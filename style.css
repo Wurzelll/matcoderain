@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    overflow: visible;
+    background-image: url(./img/wurzel.jpg);
+    background-repeat: no no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+
+canvas {
+    display: block;
+}
+
